@@ -1,0 +1,110 @@
+body{
+    background: linear-gradient(
+        90deg,
+        rgb(200,67,8),
+        rgb(6, 243, 243),
+        purple
+        
+      );
+}
+
+h1{ 
+    text-align: center;
+    border-radius: 50px; 
+    font-size: 50px;  
+    color:crimson;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background:linear-gradient(
+        80deg,
+        black,
+        rgba(212, 7, 85, 0.493)
+    );
+    padding:10px;
+    margin-left: 20%;
+    margin-top: -5px;
+    margin-right: 20%;
+}
+
+p{
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#bar1{
+    padding:20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    text-size-adjust: 10px;
+    background: linear-gradient(
+        crimson,
+        purple
+    );
+}
+#bar2{ 
+    padding:20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    text-size-adjust: 10px;
+    background: linear-gradient(
+        crimson,
+        purple
+    );
+}
+
+#bar3{ 
+    padding:20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    text-size-adjust: 10px;
+    background: linear-gradient(
+        crimson,
+        purple
+    );
+}
+
+#temp1{
+    font-size: 40px;
+    color:crimson
+}
+
+#temp2{
+    font-size: 40px;
+    color:rgb(13, 32, 134);
+}
+
+#temp3{
+    font-size: 40px;
+    color:violet
+}
+
+
+
+
+#btncf{
+    padding:10px; 
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+
+#btnfc{
+    padding:10px;
+    background-color: skyblue;
+    border-radius: 10px; 
+}
+
+#btnkc{
+    padding:10px;
+    background-color: rgb(155, 25, 144);
+    border-radius: 10px;
+}
+
+ 
+ 
+
+
+
+
